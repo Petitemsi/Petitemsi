@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Tansel 👋 </h1>
 <p align="center">
   <i>Software & IT Professional with a passion for full-stack development, distributed systems, and AI-driven solutions.</i><br/>
-  📍 Dublin, Ireland | Stamp 4 (eligible to work full-time)  
+  📍 Dublin, Ireland 
   🎓 Higher Diploma in Computing Science @ <b>National College of Ireland</b>  
 </p>
 
